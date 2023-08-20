@@ -25,6 +25,24 @@ Collaborative Filtering is based on the idea that users who agreed in the past w
 ### **Content-Based Filtering**
 Content-Based Filtering suggests movies based on their features and attributes, such as genre, actors, directors, and keywords. This approach targets the inherent characteristics of the movies themselves, rather than relying solely on user behavior.
 
+## User Interface
+---
+-  **Main Page of the System**
+<img width="960" alt="image" src="https://github.com/sugam1409/Movie-Recommendation-Sysrem/assets/108719999/c7d7f87b-c8fc-42f8-8943-af6948c2f56c">
+
+---
+---
+
+  ## ***Search option for movies in dataset***
+<img width="957" alt="image" src="https://github.com/sugam1409/Movie-Recommendation-Sysrem/assets/108719999/90f721f8-4866-4695-a67c-e7ddd6d9c0df">
+---
+---
+
+-  ***System Suggested the movies belonging to the given name***
+<img width="956" alt="image" src="https://github.com/sugam1409/Movie-Recommendation-Sysrem/assets/108719999/dde8ab35-8d03-49be-abe1-96c0e4d3cf84">
+
+
+
 ## Benefits
 
 - ***Personalization :*** Users receive tailored movie recommendations based on their individual preferences.
@@ -34,7 +52,8 @@ Content-Based Filtering suggests movies based on their features and attributes, 
 - ***Increased Engagement :*** By providing relevant suggestions, the system encourages users to spend more time on the platform.
 
 
-
+## Conclusion
+The Similar Movies Recommendation System simplifies the process of discovering new movies by offering suggestions that align with user's preferences and search queries. By combining content-based analysis and keyword extraction, the system ensures that users are presented with a diverse and relevant selection of similar movies to enhance their movie-watching experience.
 
 
 
