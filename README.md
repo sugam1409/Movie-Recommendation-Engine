@@ -1,4 +1,4 @@
-# Movie-Recommendation-Sysrem
+# Movie-Recommendation-System
 ## Introduction
 
 The Movie Recommendation System is a personalized recommendation engine designed to assist users in discovering movies that align with their preferences. This system utilizes collaborative filtering techniques and user behavior analysis to suggest movies that users are likely to enjoy based on their similarities in movies.
